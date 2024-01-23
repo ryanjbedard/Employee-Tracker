@@ -2,23 +2,17 @@
 
 ## Description
 
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+It is an application designed to navigate and look through employees. They can be sorted through department and new employees can be added 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+ Install mySQL, Node.js, and mysQL2. Navigate to the repository and run npm start in the terminal.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Use the arrow keys to go either up or down. Choose your selection.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![alt text](./Assets/Screenshot%202024-01-22%20222134.png)
 
 ## Credits
 
